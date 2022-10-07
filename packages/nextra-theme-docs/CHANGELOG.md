@@ -1,5 +1,12 @@
 # nextra-theme-docs
 
+## 2.0.0-beta.30
+
+### Patch Changes
+
+- 1a7cd68: toc anchor links should have `display: inline-block`
+- c09f450: fix CTRL+K, on non non-mac use `e.ctrlKey` instead `e.metaKey`
+
 ## 2.0.0-beta.29
 
 ### Patch Changes

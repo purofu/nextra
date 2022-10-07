@@ -1,5 +1,11 @@
 # nextra-theme-blog
 
+## 2.0.0-beta.30
+
+### Patch Changes
+
+- b7f7cf6: add missing `passHref` for `NextLink`
+
 ## 2.0.0-beta.29
 
 ## 2.0.0-beta.28
